@@ -20,7 +20,7 @@ spring:
     password: guest
     username: guest
   redis:
-    host: localhost
+    host: 47.107.131.47
     port: 6379
     
 env:
